@@ -1,9 +1,9 @@
-package EserciziFunctionalProgramming;
+package EserciziSelfWork1;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class FunctionalProgrammingES1 {
+public class SelfWorkES1 {
 
     // Classe record per rappresentare l'oggetto con toString()
     public record Studente(String nome, int voto) {}

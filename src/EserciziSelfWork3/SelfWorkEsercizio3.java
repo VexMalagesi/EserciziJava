@@ -1,4 +1,4 @@
-package EserciziFunctionalProgramming3;
+package EserciziSelfWork3;
 
 import java.util.ArrayList;
 import java.util.LinkedHashSet;
